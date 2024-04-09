@@ -1,1 +1,1 @@
-# bookboot
+Bookboot is my first boot.dev project.
